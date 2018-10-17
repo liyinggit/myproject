@@ -15,7 +15,7 @@ a{
     margin: 0px;
 }
 .p0{
-    padding: 0px;   
+    padding: 0px;
 }
 body{
     line-height: 26px;
@@ -65,8 +65,6 @@ i{
 /* End Container Custome Code css
 ============================================================================================ */
 
-
-
 /* Main title css
 ============================================================================================ */
 .main_title{
@@ -83,6 +81,25 @@ i{
         font-family: $pop;
         line-height: 26px;
         padding-top: 15px;
+    }
+}
+
+.main_title1{
+    h2{
+        font-size: 40px;
+        line-height: 48px;
+        font-family: $pop;
+        color: $dip;
+        font-weight: 500;
+        padding-left: 100px;
+    }
+    p{
+        font-size: 16px;
+        color: $pfont;
+        font-family: $pop;
+        line-height: 26px;
+        padding-top: 15px;
+        padding-left: 100px;
     }
 }
 .center_title{
