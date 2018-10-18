@@ -1358,6 +1358,7 @@ i:before {
 
 .l_news_item .l_news_img {
   overflow: hidden;
+  border: 1px solid #ebebeb;
 }
 
 .l_news_item .l_news_img a {
